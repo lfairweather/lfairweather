@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**lfairweather/lfairweather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Lewis Fairweather
+<br>
+Software Engineer | Co-Founder @ [tripapt.com](https://tripapt.com) | Weekly Programming Tips ➜ [Sign Up](https://upscri.be/xcpynp)
+<br>
+<br>
+### Check out my latest medium articles!
+ 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lewisfairweather/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lewisfairweather/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lewisfairweather/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lewisfairweather/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lewisfairweather/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lewisfairweather/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lewisfairweather/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lewisfairweather/3" alt="Recent Article 3"> 
