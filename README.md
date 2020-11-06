@@ -1,7 +1,9 @@
 # Lewis Fairweather
 
 <br>
+
 Software Engineer | Co-Founder @ [tripapt.com](https://tripapt.com) | Weekly Programming Tips ➜ [Sign Up](https://upscri.be/xcpynp)
+
 <br>
 <br>
 
