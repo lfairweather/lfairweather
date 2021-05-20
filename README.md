@@ -1,6 +1,6 @@
 # Lewis Fairweather
 
-Software Engineer | Co-Founder @ [tripapt.com](https://tripapt.com) | Weekly Programming Tips ➜ [Sign Up](https://upscri.be/xcpynp)
+Software Engineer | Co-Founder @ [tripapt.com](https://tripapt.com)
 
 ### Check out my latest medium articles! 🚀
  
